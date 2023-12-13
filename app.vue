@@ -72,8 +72,8 @@ const topics = [
 
     <v-row>
       <v-col>
-        <v-card outlined>
-          <v-card-title>
+        <v-card color="primary">
+          <v-card-title color="primary">
             Overview of Results
           </v-card-title>
 
